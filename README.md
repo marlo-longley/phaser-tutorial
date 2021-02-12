@@ -9,6 +9,6 @@ If you don't know how to do something, look it up on Google, StackOverflow.com, 
 
 1. Clone this repository to your local computer.
 2. Get the test page up and running locally:
-`npm -g install browser-sync`
-`cd /path/to/phaser/`
-`browser-sync start --server --files="**/*.js"`
+- `npm -g install browser-sync`
+- `cd /path/to/phaser/`
+- `browser-sync start --server --files="**/*.js"`
