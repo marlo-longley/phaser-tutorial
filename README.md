@@ -12,3 +12,4 @@ If you don't know how to do something, look it up on Google, StackOverflow.com, 
 - `npm -g install browser-sync`
 - `cd /path/to/phaser/`
 - `browser-sync start --server --files="**/*.js"`
+- Browse to `localhost:3000` in your browser (Chrome or Firefox, etc.). You should see the words "The homepage works!"
